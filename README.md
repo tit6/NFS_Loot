@@ -1,2 +1,11 @@
-# NFS_Loot
-NFS extract file tools
+# NFS extracteur
+
+## For Install
+```
+pip install -r requirements.txt
+``` 
+
+## For use
+```
+python3 index.py -i/--input <file>
+```
